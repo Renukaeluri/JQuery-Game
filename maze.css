@@ -3,7 +3,7 @@
     position: absolute;
     background: url(character1.jpg)no-repeat;
     width: 109px;
-    height: 154px;
+    height: 159px;
     border: 1px solid red;
 }
 
@@ -12,6 +12,6 @@
 #map{
     
     border: 1px solid black;
-    height: 300px;
-    width: 800px;
+    height: 309px;
+    width: 609px;
 }
